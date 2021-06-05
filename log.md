@@ -6,7 +6,7 @@ YYYY-MM-DD format - because ISO8601 is where it's at!
 
 **Today's Progress**: Played through http://www.flexboxdefense.com/, after this and the codingfantasy site I feel very confident with CSS flexbox. Took the W3C HTML quiz over at https://www.w3schools.com/html/html_quiz.asp and filled in some knowledge gaps that the FCC course didn't cover (or didn't cover yet).
 
-**Thoughts:** It's impressive how much easy pre-made stuff you can implement with just a simple HTML tag, like <video controls> or <meter>. I can imagine that implementing elements like this would have been quite a headache for developers 20 years ago.
+**Thoughts:** It's impressive how much easy pre-made stuff you can implement with just a simple HTML tag, like `<video controls>` or `<meter>`. I can imagine that implementing elements like this would have been quite a headache for developers 20 years ago.
 
 **Today's Tweet**: https://twitter.com/CamelCoder/status/1401262173637255171
 

@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 YYYY-MM-DD format - because ISO8601 is where it's at!
 
+### Day 7: 2021-06-06
+##### 
+
+**Today's Progress**: Was only able to study for 1h30min today due to time constraints. Learned about responsive design tools, like media queries and viewport units. Read an article on the uses of vmin and vmax to solve the issue of text getting too large/small in on landscape/portrait devices.
+
+**Thoughts:** My first week of the challenge is done, and I'm very happy with my progress and consistency so far.
+
+<img src="https://i.imgur.com/4JYWEyE.png">
+
+**Today's Tweet**: https://twitter.com/CamelCoder/status/1401640410108379140
+
+**Link to work:** N/A
+
 ### Day 6: 2021-06-05
 ##### 
 

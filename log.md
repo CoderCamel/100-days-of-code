@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 YYYY-MM-DD format - because ISO8601 is where it's at!
 
+### Day 8: 2021-06-07
+##### 
+
+**Today's Progress**: Learned about CSS Grid. Played through <a href="https://cssgridgarden.com/">Grid Garden</a> and <a href="https://flexboxfroggy.com/">Flexbox Froggy</a>.
+Started building my FCC Tribute Page.
+
+**Thoughts:** I'm having an issue where a `<div>` container expands to the width of the page instead of just wrapping around its child image. I've tried using `display: inline-block;` on both the image and the container but no cigar. Taking a fresh look at it tomorrow. 
+
+**Today's Tweet**: https://twitter.com/CamelCoder/status/1401969281080963080
+
+**Link to work:** https://codepen.io/codercamel/pen/yLMEvzB
+
 ### Day 7: 2021-06-06
 ##### 
 

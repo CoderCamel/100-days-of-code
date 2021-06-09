@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 YYYY-MM-DD format - because ISO8601 is where it's at!
 
+### Day 10: 2021-06-09
+##### 
+
+**Today's Progress**: Experimented with CSS Grid, figuring out what works and what doesn't. Tried to break the grid in different ways and seeing what effects it had.
+
+**Thoughts:** Read a great tip about how to vertically center something in a grid item without affecting div stretch size - just turn the grid item into a flexbox! 
+
+**Today's Tweet**: https://twitter.com/CamelCoder/status/1402763733097721856
+
+**Link to work:** N/A
+
 ### Day 9: 2021-06-08
 ##### 
 

@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 YYYY-MM-DD format - because ISO8601 is where it's at!
 
+### Day 9: 2021-06-08
+##### 
+
+**Today's Progress**: Worked on my tribute page. 
+
+**Thoughts:** Had a lot of issues regarding a div size, all caused by not realizing that <figure> is a block element, kept looking for the culprit elsewhere. All's well that ends well tho Smiling face with open mouth and smiling eyes
+
+**Today's Tweet**: https://twitter.com/CamelCoder/status/1402756241462546434
+
+**Link to work:** https://codepen.io/codercamel/pen/yLMEvzB
+
 ### Day 8: 2021-06-07
 ##### 
 
